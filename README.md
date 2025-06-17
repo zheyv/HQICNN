@@ -1,8 +1,6 @@
 # Hybrid Quantum Inception-Inspired Convolutional Neural Network for Image Classification
 
-This is the source code for this paper "Hybrid Quantum Inception-Inspired Convolutional Neural Network for Image Classification"
-
-
+This repository contains the source code for the paper "Hybrid Quantum Inception-Inspired Convolutional Neural Network for Image Classification."
 
 experiment environment
 + jupyter notebook 
